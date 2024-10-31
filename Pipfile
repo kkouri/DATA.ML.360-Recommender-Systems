@@ -8,8 +8,10 @@ polars="*"
 numpy="*"
 jupyter="*"
 ipykernel = "*"
+scipy = "*"
 
 [dev-packages]
+black = "*"
 
 [requires]
 python_version = "3.12"
