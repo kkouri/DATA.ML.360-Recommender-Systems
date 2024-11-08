@@ -8,7 +8,7 @@ polars="*"
 numpy="*"
 jupyter = "*"
 ipykernel = "*"
-scipy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 black = "*"
