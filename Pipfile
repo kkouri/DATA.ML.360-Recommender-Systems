@@ -6,13 +6,13 @@ name = "pypi"
 [packages]
 polars="*"
 numpy="*"
-jupyter="*"
+jupyter = "*"
 ipykernel = "*"
-scipy = "*"
-black = "*"
+scikit-learn = "*"
 
 [dev-packages]
 black = "*"
 
 [requires]
-python_version = "3.12"
+python_version = "3.13"
+python_full_version = "3.13.0"
